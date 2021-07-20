@@ -1,0 +1,3 @@
+Currently learning:
+- 🖋️ JavaScript
+- 🥅 Git
