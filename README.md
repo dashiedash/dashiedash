@@ -8,4 +8,4 @@ A full-stack developer in the making.
 - 🌐 HTML/CSS
 
 - 🍣 Japanese
-- ☕ Arabic
+- 🥮 Mandarin
