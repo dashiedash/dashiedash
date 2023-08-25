@@ -3,9 +3,9 @@ A full-stack developer in the making.
 ---
 
 #### Currently learning:
-- 🖋️ JavaScript
+- ⚛️ React
 - 🥅 Git
-- 🌐 HTML/CSS
+- 💡 Filament PHP
 
 - 🍣 Japanese
 - 🥮 Mandarin
